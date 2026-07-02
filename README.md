@@ -1,5 +1,4 @@
-# ExpenseTrackerPro
-This is my app: https://finance-flow-jordanbrown24.replit.app/auth
+
 # Expense TrackerPro - Personal Finance Manager
 
 A comprehensive personal finance management system designed to help users track, analyze, and optimize their financial activities.
