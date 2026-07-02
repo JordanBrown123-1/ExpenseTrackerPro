@@ -3,6 +3,9 @@
 
 A comprehensive personal finance management system designed to help users track, analyze, and optimize their financial activities.
 
+Website: https://finance-flow-jordanbrown24.replit.app/auth
+Login: johndoe123
+Password: johndoe123
 ## Features
 
 ### 🔒 User Account System
